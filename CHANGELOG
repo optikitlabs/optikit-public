@@ -1,1 +1,15 @@
+# Changelog
 
+## May 2026
+
+### Passport Tool
+- Improved face alignment
+- Better crop accuracy
+- Faster export speed
+
+### Compression Tool
+- Reduced output artifacts
+- Added support for large JPEG files
+
+### PDF Tools
+- Added PDF/A export improvements
